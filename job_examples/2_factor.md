@@ -1,32 +1,31 @@
 A: (high hygiene & high motivation)
 	- permanent position
-	- good relationship between colleagues (in the break often eat together, by issues help each other 
-	   (also with private issuses), some friends)
-	- surpervisor is toleranty by failures, helps with problems 
-	- no problems with surprising holidaies (but not in the near of deadlines of bigger projects)
-	- chellanging tasks, wich you are allowed to plan a bit by your own
-	- often feedback about your work (positive and negative), but in a respective sound
+	- good relationship between colleagues (often eat together during breaks, help each other with issues (also private), friendships)
+	- surpervisor is toleranty of failures, helps with problems
+	- no problems with short-schedule holidays (but not in the vicinity of deadlines of bigger projects)
+	- challenging tasks, wich you are allowed to plan a bit by your own
+	- frequent, respectful feedback about your work (positive and negative)
 
 B: (high hygiene & low motivation)
-	- regular defined workinghours (not a lot of extra hours)
+	- regular, defined working hours (not a lot of extra hours)
 	- a very good payment
-	- no promotion by good work since 3 years
+	- no promotion through good work since 3 years
 	- mental underload
 	- supervisor is choleric
 	- just feedback when something went wrong
 
 C: (low hygiene & high motivation)
-	- temp work of 2 years
+	- temp. work of 2 years
 	- complex leading hiarchy
-	- pay for parking your car, but bad connetion to the public transport (at least 3 hours treval time instead 1,5)
-	- responsibility for your tasks (less controll)
-	- profitsharing
-	- possibility by good work for promotion
+	- pay for parking your car, and bad connection to the public transport (at least 3 hours travel time instead  of 1.5)
+	- responsible for your tasks (less control)
+	- profit sharing
+	- possibility for promotion through good work
 
 D: (low hygiene & low motivation)
 	- bad payment
-	- really bad realtionship between colleagues (bullying, 
+	- really bad relationship between colleagues (e.g. bullying, hostile working environment)
 	- a lot of extra hours
-	- no responsibilty for tasks
-	- a lot of controll and commands how ro do things
-	- less sucess, cause of missing information from the supervisor and other departments
+	- no responsibility for tasks
+	- a lot of control and instructions on how to do things
+	- less success, cause of missing information from the supervisor and other departments

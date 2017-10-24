@@ -8,9 +8,9 @@
 - Satisfaction often times derives from intrinsic factors (e.g. sense of importance, responsibility, recognition)
 
 - Motivators:
-	+ chelleging work
+	+ challeging work
 	+ recognition
-	+ respomsibility
+	+ responsibility
 - Hygiene Factors:
 	+ status
 	+ job security
