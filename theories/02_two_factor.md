@@ -7,6 +7,16 @@
 - Dissatisfaction is often times extrinsic (determined by outer sources, e.g. work schedule, organizational structure)
 - Satisfaction often times derives from intrinsic factors (e.g. sense of importance, responsibility, recognition)
 
+- Motivators:
+	+ chelleging work
+	+ recognition
+	+ respomsibility
+- Hygiene Factors:
+	+ status
+	+ job security
+	+ salary
+	+ fringe benefits
+
 Criticism:
 - Limbo is not well-defined: depends on personality
 - Logical Fallacy: Assumes completely happy and satisfied workers produce more
