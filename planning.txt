@@ -8,9 +8,6 @@ gather some answers from the audience, organize in mind-map on part of board
 see if we can group the answers into (intrinsic) and (extrinsic) while writing them down and get the audience to recognize that as the grouping key
 then, briefly explain what those two things mean
 
-intermission: announce the question for the final discussion, so the audience can prepare an answer
-e.g. "over the course of the workshop, we would like you to think about TODO for the final discussion"
-
 ---# segway into maslow #---
 
 14:05 Maslow
@@ -31,8 +28,6 @@ Material: Paper with examples, Magnets, WhiteBoard Marker, Flipchart
 proposed idea: humans don't just strive up the pyramid, but also away from the bottom
 explain based on previously created pyramid, with slight modifications, draw arrows up and down
 go into discussion: job examples
-TODO: how will we have the audience rate the examples?
-mention criticism
 
 ---# segway into expectancy theory #---
 
@@ -75,16 +70,6 @@ Material: Flipchart, Paper with terminology, Magnets, Sellotape
 
 14:45
 
----# segway into need theory #---
-
-14:50 Need 
-Materail: Kordel, bigger Dots (possible 2 colors)
-
-- mention that this theory targets the "rewards" section of the previous model
-- explain the three needs
-- have each audience member prioritize among the three options
-TODO: some conclusion from this excercise
-
 ---# segway into flow theory #---
 
 15:00 Flow
@@ -92,6 +77,15 @@ Material: Flipchart, magnets, Dots (with colurs/num)
 
 - given optimal or at least very good conditions in your preferred field from the previous topic, you may reach a state called "flow"
 - draw the "flow" chart (hehe) and briefly explain, then move on
+
+---# segway into need theory #---
+
+14:50 Need
+Materail: Kordel, bigger Dots (possible 2 colors)
+
+- mention that this theory targets the "rewards" section of the previous model
+- explain the three needs, with stereotypical job examples
+- have each audience member prioritize among the three options
 
 ---# segway into dan pink, interesting statistics, tidbits and discussion #---
 
@@ -103,10 +97,9 @@ Material: Whiteboard, Paper with terminology
     - talk about 10K horses, how leadership and motivation are strongly interconnected
     - mention some interesting statistics, if available, on worker engagement
 
+---# segway into reflection #---
 
----# segway into refelction #---
-
-15:20 Refelction
+15:20 Reflection
 Material: Whiteboard
 
 - final discussion: think roughly 10 years into the future:
