@@ -75,6 +75,8 @@ Material: Flipchart, Paper with terminology, Magnets, Sellotape
 15:00 Flow
 Material: Flipchart, magnets, Dots (with colurs/num)
 
+TODO: Find example for 'Flow' section
+
 - given optimal or at least very good conditions in your preferred field from the previous topic, you may reach a state called "flow"
 - draw the "flow" chart (hehe) and briefly explain, then move on
 
@@ -86,13 +88,26 @@ Materail: Kordel, bigger Dots (possible 2 colors)
 - mention that this theory targets the "rewards" section of the previous model
 - explain the three needs, with stereotypical job examples
 - have each audience member prioritize among the three options
+- related motivational factors per part
+- reorder with other color
 
 ---# segway into dan pink, interesting statistics, tidbits and discussion #---
 
 15:10 Critism
 Material: Whiteboard, Paper with terminology
 
+- ask audience what the proposed theories lack
+- specific questions:
+    - Where (does / should) motivation come from?
+    - How important is a 'dedicated motivator' (leader) in this context?
+    - How important is money for your motivation?
+    - Did we miss any factors (from your personal experience)?
+    - Motivation a group? (SOFA)
+    - IMPORTANT: Back-Reference: How would you solve the time-motivation problem (for yourself)?
 - mention dan pink's stance (money is not the main motivator, back-reference to maslow)
+
+### END
+
 # subsections: sprenger
     - talk about 10K horses, how leadership and motivation are strongly interconnected
     - mention some interesting statistics, if available, on worker engagement
