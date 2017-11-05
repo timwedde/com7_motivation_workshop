@@ -72,7 +72,7 @@ Material: Flipchart, Paper with terminology, Magnets, Sellotape
 
 ---# segway into flow theory #---
 
-15:00 Flow
+14:50 Flow
 Material: Flipchart, magnets, Dots (with colurs/num)
 
 TODO: Find example for 'Flow' section
@@ -82,7 +82,7 @@ TODO: Find example for 'Flow' section
 
 ---# segway into need theory #---
 
-14:50 Need
+15:00 Need
 Materail: Kordel, bigger Dots (possible 2 colors)
 
 - mention that this theory targets the "rewards" section of the previous model
